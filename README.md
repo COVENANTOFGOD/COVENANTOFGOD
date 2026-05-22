@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/COVENANTOFGOD/Network-Hacking/tree/main">Network Hacking</a>|
 
 
 ## Tools
@@ -34,5 +34,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/COVENANTOFGOD/Network-Hacking/tree/main">Network Hacking</a>
 - SOC Automation Project
