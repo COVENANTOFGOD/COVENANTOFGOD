@@ -1,5 +1,5 @@
 # Hello, I'm COVENANTOFGOD
-<a href="(https://www.linkedin.com/in/irogementi-covenant-b89a2037b/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
