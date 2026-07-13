@@ -1,38 +1,86 @@
-# Hello, I'm COVENANTOFGOD
+# Hello, I'm COVENANTOFGOD👋
+## Business Analyst | Data Analyst | Problem Solver
 <a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am a Computer Science student with a strong passion for transforming business challenges into data-driven solutions. I enjoy analyzing business processes, gathering requirements, visualizing data, and helping organizations make informed decisions through business intelligence and analytics.
+
+My goal is to build a career as a Business Analyst while continuously developing expertise in data analytics, business process improvement, and digital transformation.
+
+---
+
+## 🎯 Career Objective
+
+I am seeking opportunities to apply analytical thinking, business process analysis, and data visualization skills to help organizations improve efficiency and make strategic decisions. I enjoy working with stakeholders, translating business requirements into actionable insights, and creating dashboards that support decision-making.
+
+---
+
+# 🛠 Skills
+
+| Skill | Associated Project |
+|--------|--------------------|
+| Business Requirements Gathering | Sales Analysis Project |
+| Data Cleaning & Transformation | Excel Sales Dashboard |
+| Business Process Analysis | Customer Purchase Analysis |
+| Data Visualization | Bike Sales Dashboard |
+| Dashboard Development | Sales Performance Dashboard |
+| KPI Analysis | Executive Dashboard |
+| SQL Data Analysis | Customer Database Analysis |
+| Microsoft Excel | Interactive Business Reports |
+| Tableau | Business Intelligence Dashboard |
+| Documentation | Business Requirements Document (BRD) |
+| SWOT Analysis | Business Case Study |
+| Process Mapping | Order Processing Workflow |
+
+---
+
+# 💻 Tools & Technologies
+
+### Business Analysis
+- Microsoft Excel
+
+### Data Analytics
+- SQL (MySQL)
+- Tableau
+- Power BI (Learning) pending...
+- Python (Pandas) pending...
+
+### Productivity
+- Microsoft Word
+- PowerPoint
+- Git & GitHub
+
+---
+
+# 📊 Projects
+
+## 🚲 Bike Sales Dashboard
+**Tools:** Excel
+
+- Built an interactive dashboard using PivotTables, PivotCharts, and Slicers.
+- Analyzed customer demographics, income, education, region, and commute distance.
+- Identified key business insights to support marketing decisions.
+
+---
 
 
-I am a student with a profound interest in technology and a dedication to solving complex problems.
+# 📜 Certifications
 
-## Objective
+- Google Data Analytics (In Progress)
+- Microsoft Excel for Business
+- SQL for Data Analysis
+- Tableau Data Visualization
 
+---
 
-My journey in computer science has led me to develop a passion for Data Analysis, and I am now eager to transition into this field, spec.
+# 📚 Currently Learning
 
-## Skills
+- Business Analysis
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/COVENANTOFGOD/Network-Hacking/tree/main">Network Hacking</a>|
+---
 
+# 📫 Connect With Me
 
-## Tools
+- LinkedIn: *(https://www.linkedin.com/in/irogementi-covenant-b89a2037b/)*
+- Email: *(covenantofgod0@gmail.com)*
+- GitHub: https://github.com/COVENANTOFGOD
 
-### Network
-<div>
-  ="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-
-
-## Certifications
-<div>
-<a href="https://skillbridge.dotcampus.co/verify-certificate/DC-CYBERSECURITY-2026-000002" target="_blank">
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-</div>
-
-## Projects
-- <a href="https://github.com/COVENANTOFGOD/Network-Hacking/tree/main">Network Hacking</a>
-- SOC Automation Project
