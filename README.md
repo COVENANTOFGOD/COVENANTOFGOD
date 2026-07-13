@@ -16,9 +16,9 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 # 🛠 Skills
 
-| Skill | Associated Project |
-|--------|--------------------|
-| Business Requirements Gathering | Sales Analysis Project |
+| Skill                                     | Associated Project |
+|-------------------------------------------|--------------------|
+| Business Data Analysis | <a href="https://github.com/COVENANTOFGOD/BIKE-SALES-DASHBOARD/tree/main">BIKE-SALES-DASHBOARD</a>|
 
 ---
 
@@ -43,7 +43,10 @@ I am seeking opportunities to apply analytical thinking, business process analys
 # 📊 Projects
 
 ## 🚲 Bike Sales Dashboard
-**Tools:** Excel
+**Skill**	Business Data Analysis,
+**Tool**	Microsoft Excel,
+**Technique**	Dashboard Development,
+**Outcome**	Business Insights & Decision Support
 
 - Built an interactive dashboard using PivotTables, PivotCharts, and Slicers.
 - Analyzed customer demographics, income, education, region, and commute distance.
