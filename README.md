@@ -19,17 +19,6 @@ I am seeking opportunities to apply analytical thinking, business process analys
 | Skill | Associated Project |
 |--------|--------------------|
 | Business Requirements Gathering | Sales Analysis Project |
-| Data Cleaning & Transformation | Excel Sales Dashboard |
-| Business Process Analysis | Customer Purchase Analysis |
-| Data Visualization | Bike Sales Dashboard |
-| Dashboard Development | Sales Performance Dashboard |
-| KPI Analysis | Executive Dashboard |
-| SQL Data Analysis | Customer Database Analysis |
-| Microsoft Excel | Interactive Business Reports |
-| Tableau | Business Intelligence Dashboard |
-| Documentation | Business Requirements Document (BRD) |
-| SWOT Analysis | Business Case Study |
-| Process Mapping | Order Processing Workflow |
 
 ---
 
