@@ -18,6 +18,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Data Analysis | <a href="https://github.com/COVENANTOFGOD/SALES-PERFORMANCE-DASHBOARD/tree/main">SALES-PERFORMANCE-DASHBOARD(EXCEL)</a>|
 | Business Data Analysis | <a href="https://github.com/COVENANTOFGOD/BIKE-SALES-DASHBOARD/tree/main">BIKE-SALES-DASHBOARD</a>|
 
 ---
