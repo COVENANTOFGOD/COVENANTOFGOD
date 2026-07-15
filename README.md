@@ -43,7 +43,17 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 # 📊 Projects
 
-## 🚲 Bike Sales Dashboard
+## 💹 SALES-PERFORMANCE-DASHBOARD(EXCEL)
+**Skill** Data Analysis,
+**Tool** Microsoft Excel,
+**Technique** Built an interactive Excel dashboard using Pivot Tables, Pivot Charts, KPI calculations, Slicers, and data visualization techniques to analyze sales performance.
+**Outcome** 
+- Delivered a dynamic dashboard that enables stakeholders to monitor KPIs
+- identify sales trends
+- compare regional performance
+- make data-driven business decisions efficiently.
+
+## 🚲 BIKE-SALES-DASHBOARD
 **Skill**	Business Data Analysis,
 **Tool**	Microsoft Excel,
 **Technique**	Dashboard Development,
@@ -58,10 +68,9 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 # 📜 Certifications
 
-- Google Data Analytics (In Progress)
-- Microsoft Excel for Business
-- SQL for Data Analysis
-- Tableau Data Visualization
+- SQL(MySQL Certificate)
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-fe439ab1-4940-4ac8-880f-116f7af0ab39.jpg?v=1765901145000">MySQL Certificate</a>
+
 
 ---
 
