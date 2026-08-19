@@ -26,14 +26,12 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 # 💻 Tools & Technologies
 
-### Business Analysis
+### Business Analysis & Data Analytics
 - Microsoft Excel
-
-### Data Analytics
 - SQL (MySQL)
 - Tableau
-- Power BI (Learning) pending...
-- Python (Pandas) pending...
+- Power BI 
+- Python (Pandas, Numpy, Matplotlib)
 
 ### Productivity
 - Microsoft Word
@@ -43,22 +41,31 @@ I am seeking opportunities to apply analytical thinking, business process analys
 ---
 
 # 📊 Projects
+## Data-Professional-Survey-Breakdown
+**Skill** :Business Analysis,
+**Tool** :Power BI,
+**Technique** :Exploratory Data Analysis (EDA) and Visual Data Storytelling.
+**Outcome** : 
+- Quantified average earnings across core data roles, establishing Data Scientists as top earners followed by Engineers, Architects, and Analysts.
+- Confirmed Python as the primary industry tool, guiding skill development and hiring priorities.
+- Measured average compensation satisfaction at 5.86/10 for talent retention insights.
+- Replaced static survey files with an interactive Power BI dashboard for instant cross-filtering and analysis.
 
 ## 💹 SALES-PERFORMANCE-DASHBOARD(EXCEL)
-**Skill** Data Analysis,
-**Tool** Microsoft Excel,
-**Technique** Built an interactive Excel dashboard using Pivot Tables, Pivot Charts, KPI calculations, Slicers, and data visualization techniques to analyze sales performance.
-**Outcome** 
+**Skill** :Data Analysis,
+**Tool** :Microsoft Excel,
+**Technique** :Built an interactive Excel dashboard using Pivot Tables, Pivot Charts, KPI calculations, Slicers, and data visualization techniques to analyse sales performance.
+**Outcome** : 
 - Delivered a dynamic dashboard that enables stakeholders to monitor KPIs
 - identify sales trends
 - compare regional performance
 - make data-driven business decisions efficiently.
 
 ## 🚲 BIKE-SALES-DASHBOARD
-**Skill**	Business Data Analysis,
-**Tool**	Microsoft Excel,
-**Technique**	Dashboard Development,
-**Outcome**	Business Insights & Decision Support
+**Skill**	:Business Data Analysis,
+**Tool**	:Microsoft Excel,
+**Technique**	:Dashboard Development,
+**Outcome**	:Business Insights & Decision Support
 
 - Built an interactive dashboard using PivotTables, PivotCharts, and Slicers.
 - Analyzed customer demographics, income, education, region, and commute distance.
