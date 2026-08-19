@@ -1,8 +1,8 @@
-# Hello, I'm COVENANTOFGOD👋
-## Business Analyst | Data Analyst | Problem Solver
+# Hello, I'm COVENANTOFGOD👨‍💻
+## Business Analytics💹 | Data Analyst📈 | Experienced in SQL, Excel, Python, Power BI, Tableau | Problem Solver
 <a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Computer Science student with a strong passion for transforming business challenges into data-driven solutions. I enjoy analyzing business processes, gathering requirements, visualizing data, and helping organizations make informed decisions through business intelligence and analytics.
+I am a Computer Science student with a strong passion for transforming business challenges into data-driven solutions. I enjoy analysing business processes, gathering requirements, visualizing data, and helping organizations make informed decisions through business intelligence and analytics.
 
 My goal is to build a career as a Business Analyst while continuously developing expertise in data analytics, business process improvement, and digital transformation.
 
@@ -18,6 +18,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Professional-Survey-Breakdown">Data-Professional-Survey-Breakdown Dashboard(Power BI)</a>|
 | Data Analysis | <a href="https://github.com/COVENANTOFGOD/SALES-PERFORMANCE-DASHBOARD/tree/main">SALES-PERFORMANCE-DASHBOARD(EXCEL)</a>|
 | Business Data Analysis | <a href="https://github.com/COVENANTOFGOD/BIKE-SALES-DASHBOARD/tree/main">BIKE-SALES-DASHBOARD</a>|
 
