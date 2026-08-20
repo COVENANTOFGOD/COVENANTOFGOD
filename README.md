@@ -1,7 +1,13 @@
 # Hello, I'm COVENANTOFGOD👨‍💻
 ## Business Analytics💹 | Data Analyst📈 | Experienced in SQL, Excel, Python, Power BI, Tableau | Problem Solver
-<a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/COVENANT_OFGOD" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/covenant_ofgod/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 I am a Computer Science student with a strong passion for transforming business challenges into data-driven solutions. I enjoy analysing business processes, gathering requirements, visualizing data, and helping organizations make informed decisions through business intelligence and analytics.
 
 My goal is to build a career as a Business Analyst while continuously developing expertise in data analytics, business process improvement, and digital transformation.
