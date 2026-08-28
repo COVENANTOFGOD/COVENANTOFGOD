@@ -1,5 +1,5 @@
 # Hello, I'm COVENANTOFGOD👨‍💻
-## Business Analytics💹 | Data Analyst📈 | Experienced in SQL, Excel, Python, Power BI, Tableau | Problem Solver
+## Business Analytics💹 | Data Analyst📈 | Experienced in SQL, Excel, Power BI, Tableau, Python | Problem Solver
 
 <p align="left">
   <a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,9 +24,10 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Jobs-Dashboard">Data-Jobs-Dashboard(Power BI)</a>|
 | Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Professional-Survey-Breakdown">Data-Professional-Survey-Breakdown Dashboard(Power BI)</a>|
 | Data Analysis | <a href="https://github.com/COVENANTOFGOD/SALES-PERFORMANCE-DASHBOARD/tree/main">SALES-PERFORMANCE-DASHBOARD(EXCEL)</a>|
-| Business Data Analysis | <a href="https://github.com/COVENANTOFGOD/BIKE-SALES-DASHBOARD/tree/main">BIKE-SALES-DASHBOARD</a>|
+| Business Data Analysis | <a href="https://github.com/COVENANTOFGOD/BIKE-SALES-DASHBOARD/tree/main">BIKE-SALES-DASHBOARD(EXCEL)</a>|
 
 ---
 
@@ -34,7 +35,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ### Business Analysis & Data Analytics
 - Microsoft Excel
-- SQL (MySQL)
+- SQL (SQL Server, MySQL)
 - Tableau
 - Power BI 
 - Python (Pandas, Numpy, Matplotlib)
@@ -45,9 +46,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 - Git & GitHub
 
 ---
+# 📊 Projects
+## Data-Jobs-Dashboard (Power Bi)
+**Skill** :Business Analysis,
+**Tool** :Power BI,
+**Technique** :Exploratory Data Jobs Salary & Market Intelligence.
+**Outcome** : 
+- Data Engineer is the highest-paying and highest-volume role: 129K postings, $126K median yearly salary, $59/hr.
+- Data Scientist and Data Analyst are the next most common roles (98K and 113K postings respectively).
+- Senior Data Engineer and Machine Learning Engineer have relatively low job counts (23K and 13K) but strong salaries ($147K and $155K), showing higher pay is concentrated in senior/specialized roles rather than volume roles.
+- The hourly vs. yearly scatter plot confirms a general positive relationship — roles with higher yearly medians also tend to have higher hourly medians — with - Software/ML Engineer roles clustering at the top-right (best combined pay) and Data Analyst roles at the bottom-left (lowest pay).
 
 # 📊 Projects
-## Data-Professional-Survey-Breakdown
+## Data-Professional-Survey-Breakdown (Power BI)
 **Skill** :Business Analysis,
 **Tool** :Power BI,
 **Technique** :Exploratory Data Analysis (EDA) and Visual Data Storytelling.
@@ -81,16 +92,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 
 # 📜 Certifications
-
 - SQL(MySQL Certificate)
-<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-fe439ab1-4940-4ac8-880f-116f7af0ab39.jpg?v=1765901145000">MySQL Certificate</a>
+<img width="1600" height="1190" alt="UC-fe439ab1-4940-4ac8-880f-116f7af0ab39" src="https://github.com/user-attachments/assets/0c9a1225-1751-4d76-971d-503520fca93b" />
+
+Data Analyst Bootcamps Certificates
+<img width="3264" height="2524" alt="20260825_024935" src="https://github.com/user-attachments/assets/c127137f-bbcf-44b6-be5d-47c079167f18" />
+<img width="3264" height="2521" alt="20260825_025136" src="https://github.com/user-attachments/assets/6eeb22d1-e30d-432f-840f-b794660ce812" />
 
 
 ---
 
 # 📚 Currently Learning
 
-- Business Analysis
+- Working on Real Projects
 
 ---
 
@@ -99,4 +113,5 @@ I am seeking opportunities to apply analytical thinking, business process analys
 - LinkedIn: *(https://www.linkedin.com/in/irogementi-covenant-b89a2037b/)*
 - Email: *(covenantofgod0@gmail.com)*
 - GitHub: https://github.com/COVENANTOFGOD
+- x: https://x.com/COVENANT_OFGOD
 
