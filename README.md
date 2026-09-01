@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Excel Business Intelligence / Dashboard Reporting | <a href="https://github.com/COVENANTOFGOD/Employee-Analysis-Dashboard-Project">Employee-Analysis-Dashboard-Project(EXCEL)</a>|
 | Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Jobs-Dashboard">Data-Jobs-Dashboard(Power BI)</a>|
 | Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Professional-Survey-Breakdown">Data-Professional-Survey-Breakdown Dashboard(Power BI)</a>|
 | Data Analysis | <a href="https://github.com/COVENANTOFGOD/SALES-PERFORMANCE-DASHBOARD/tree/main">SALES-PERFORMANCE-DASHBOARD(EXCEL)</a>|
@@ -47,18 +48,39 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects
-## Data-Jobs-Dashboard (Power Bi)
+## Employee-Analysis-Dashboard-Project(EXCEL)
+**Skill** :Excel Business Intelligence / Dashboard Reporting,
+**Tool** :Microsoft Excel,
+**Technique** :PivotTable summarization & PivotChart visualization.
+**Outcome** : 
+- 30 employees across 8 departments, with a total annual salary spend of $2,085,000
+- Average salary of $69,500, ranging from $45,000 to $120,000
+- Karan Pandey is the top earner at $120,000/year
+- Engineering (6 roles) and QA (5 roles) have the widest role diversity; Finance has the fewest (2)
+- Engineering ($405K), QA ($400K), and Sales ($295K) are the top three departments by total salary cost
+- 83.33% of employees are Active, with 16.67% Inactive
+
+## Data-Jobs-Dashboard(Power BI)
 **Skill** :Business Analysis,
 **Tool** :Power BI,
-**Technique** :Exploratory Data Jobs Salary & Market Intelligence.
+**Technique** :Exploratory Data Analysis (EDA) and Visual Data Storytelling.
 **Outcome** : 
-- Data Engineer is the highest-paying and highest-volume role: 129K postings, $126K median yearly salary, $59/hr.
-- Data Scientist and Data Analyst are the next most common roles (98K and 113K postings respectively).
-- Senior Data Engineer and Machine Learning Engineer have relatively low job counts (23K and 13K) but strong salaries ($147K and $155K), showing higher pay is concentrated in senior/specialized roles rather than volume roles.
-- The hourly vs. yearly scatter plot confirms a general positive relationship — roles with higher yearly medians also tend to have higher hourly medians — with - Software/ML Engineer roles clustering at the top-right (best combined pay) and Data Analyst roles at the bottom-left (lowest pay).
+- Quantified average earnings across core data roles, establishing Data Scientists as top earners followed by Engineers, Architects, and Analysts.
+- Confirmed Python as the primary industry tool, guiding skill development and hiring priorities.
+- Measured average compensation satisfaction at 5.86/10 for talent retention insights.
+- Replaced static survey files with an interactive Power BI dashboard for instant cross-filtering and analysis.
 
-# 📊 Projects
 ## Data-Professional-Survey-Breakdown (Power BI)
+**Skill** :Business Analysis,
+**Tool** :Power BI,
+**Technique** :Exploratory Data Analysis (EDA) and Visual Data Storytelling.
+**Outcome** : 
+- Quantified average earnings across core data roles, establishing Data Scientists as top earners followed by Engineers, Architects, and Analysts.
+- Confirmed Python as the primary industry tool, guiding skill development and hiring priorities.
+- Measured average compensation satisfaction at 5.86/10 for talent retention insights.
+- Replaced static survey files with an interactive Power BI dashboard for instant cross-filtering and analysis.
+
+## Data-Jobs-Dashboard(Power BI)
 **Skill** :Business Analysis,
 **Tool** :Power BI,
 **Technique** :Exploratory Data Analysis (EDA) and Visual Data Storytelling.
