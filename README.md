@@ -24,13 +24,14 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
-| Data Engineering & Data Quality Workflow | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow(SSMS)</a>|
-| Data Engineering & Data Quality Workflow | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow(SSMS)</a>|
-| Excel Business Intelligence / Dashboard Reporting | <a href="https://github.com/COVENANTOFGOD/Employee-Analysis-Dashboard-Project">Employee-Analysis-Dashboard-Project(EXCEL)</a>|
-| Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Jobs-Dashboard">Data-Jobs-Dashboard(Power BI)</a>|
-| Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Professional-Survey-Breakdown">Data-Professional-Survey-Breakdown Dashboard(Power BI)</a>|
-| Data Analysis | <a href="https://github.com/COVENANTOFGOD/SALES-PERFORMANCE-DASHBOARD/tree/main">SALES-PERFORMANCE-DASHBOARD(EXCEL)</a>|
-| Business Data Analysis | <a href="https://github.com/COVENANTOFGOD/BIKE-SALES-DASHBOARD/tree/main">BIKE-SALES-DASHBOARD(EXCEL)</a>|
+| Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence
+</a>|
+| Data Engineering & Data Quality Workflow (SSMS) | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow</a>|
+| Excel Business Intelligence / Dashboard Reporting (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Employee-Analysis-Dashboard-Project">Employee-Analysis-Dashboard-Project</a>|
+| Business Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Data-Jobs-Dashboard">Data-Jobs-Dashboard</a>|
+| Business Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Data-Professional-Survey-Breakdown">Data-Professional-Survey-Breakdown Dashboard</a>|
+| Data Analysis (EXCEL) | <a href="https://github.com/COVENANTOFGOD/SALES-PERFORMANCE-DASHBOARD/tree/main">SALES-PERFORMANCE-DASHBOARD</a>|
+| Business Data Analysis (EXCEL) | <a href="https://github.com/COVENANTOFGOD/BIKE-SALES-DASHBOARD/tree/main">BIKE-SALES-DASHBOARD</a>|
 
 ---
 
@@ -50,6 +51,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects
+## Production Data, Analytics Workflow & Business Intelligence
+Skills:
+SQL • T-SQL • Data Analytics • Business Analysis • KPI Development • Relational Data Modeling • Business Intelligence
+
+Tools:
+SQL Server • SSMS • Microsoft Excel 
+
+Techniques:
+SQL JOINs • Primary/Foreign Keys • Aggregation • GROUP BY • KPI Engineering • SQL Views • Performance Analysis • Business Validation • Data Interpretation
+
+Outcome:
+Transformed trusted production data into connected analytical datasets, reusable SQL views, and business KPIs, then validated and interpreted the results to generate actionable business insights and support decision-making.
+
 ## Data Engineering & Data Quality Workflow
 Skills:
 SQL • T-SQL • Data Engineering • ETL • Data Cleaning • Data Profiling • Data Validation • Data Quality • Relational Database Design
