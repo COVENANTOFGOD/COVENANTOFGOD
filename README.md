@@ -24,6 +24,8 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Data Engineering & Data Quality Workflow | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow(SSMS)</a>|
+| Data Engineering & Data Quality Workflow | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow(SSMS)</a>|
 | Excel Business Intelligence / Dashboard Reporting | <a href="https://github.com/COVENANTOFGOD/Employee-Analysis-Dashboard-Project">Employee-Analysis-Dashboard-Project(EXCEL)</a>|
 | Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Jobs-Dashboard">Data-Jobs-Dashboard(Power BI)</a>|
 | Business Analysis | <a href="https://github.com/COVENANTOFGOD/Data-Professional-Survey-Breakdown">Data-Professional-Survey-Breakdown Dashboard(Power BI)</a>|
@@ -48,6 +50,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects
+## Data Engineering & Data Quality Workflow
+Skills:
+SQL • T-SQL • Data Engineering • ETL • Data Cleaning • Data Profiling • Data Validation • Data Quality • Relational Database Design
+
+Tools:
+SQL Server • SSMS • Microsoft Excel 
+
+Techniques:
+Staging Architecture • Data Transformation • NULL Handling • Referential Integrity • Primary/Foreign Key Validation • Transactions • TRY/CATCH • XACT_ABORT • Data Quality Checks
+
+Outcome:
+Transformed raw Excel project-management data into clean, validated, relational SQL Server production tables suitable for KPI development, analytical views, BI dashboards, and business analysis.
+
 ## Employee-Analysis-Dashboard-Project(EXCEL)
 **Skill** :Excel Business Intelligence / Dashboard Reporting,
 **Tool** :Microsoft Excel,
