@@ -24,8 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
-| Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence
-</a>|
+| Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence</a>|
 | Data Engineering & Data Quality Workflow (SSMS) | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow</a>|
 | Excel Business Intelligence / Dashboard Reporting (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Employee-Analysis-Dashboard-Project">Employee-Analysis-Dashboard-Project</a>|
 | Business Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Data-Jobs-Dashboard">Data-Jobs-Dashboard</a>|
