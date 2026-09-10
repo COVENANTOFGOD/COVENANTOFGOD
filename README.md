@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Employee Management Executive Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Employee-Management-Executive-Dashboard">Employee Management Executive Dashboard</a>|
 | Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence</a>|
 | Data Engineering & Data Quality Workflow (SSMS) | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow</a>|
 | Excel Business Intelligence / Dashboard Reporting (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Employee-Analysis-Dashboard-Project">Employee-Analysis-Dashboard-Project</a>|
@@ -50,6 +51,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects
+## Employee Management Executive Dashboard
+Skills:
+Power BI • Data Modelling • DAX • Business Analysis • KPI Development • Data Visualization • Business Intelligence
+
+Tools:
+Power BI Desktop 
+
+Techniques:
+Relational Data Modelling • DAX Measures • Aggregation • Time Intelligence • Slicers & Filters • KPI Cards • Interactive Dashboards • Data Interpretation
+
+Outcome:
+Transformed raw employee, project, task, and cost data into a connected data model, then engineered DAX-driven KPIs and interactive visualizations to track workforce distribution, project health, and budget performance — enabling executives to filter by department and year and quickly interpret trends to support decision-making.
+
 ## Production Data, Analytics Workflow & Business Intelligence
 Skills:
 SQL • T-SQL • Data Analytics • Business Analysis • KPI Development • Relational Data Modeling • Business Intelligence
