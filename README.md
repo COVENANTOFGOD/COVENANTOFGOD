@@ -26,6 +26,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 |-------------------------------------------|--------------------|
 | Employee Management Executive Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Employee-Management-Executive-Dashboard">Employee Management Executive Dashboard</a>|
 | Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence</a>|
+| Excel to SQL Server ETL PipelineProject (Jupyter Notebook) | <a href="https://github.com/COVENANTOFGOD/Loading-Excel-to-SQL-Project">Loading-Excel-to-SQL-Project</a>|
 | Data Engineering & Data Quality Workflow (SSMS) | <a href="https://github.com/COVENANTOFGOD/Data-Engineering-Data-Quality-Workflow">Data Engineering & Data Quality Workflow</a>|
 | Excel Business Intelligence / Dashboard Reporting (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Employee-Analysis-Dashboard-Project">Employee-Analysis-Dashboard-Project</a>|
 | Business Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Data-Jobs-Dashboard">Data-Jobs-Dashboard</a>|
@@ -76,6 +77,19 @@ SQL JOINs • Primary/Foreign Keys • Aggregation • GROUP BY • KPI Engineer
 
 Outcome:
 Transformed trusted production data into connected analytical datasets, reusable SQL views, and business KPIs, then validated and interpreted the results to generate actionable business insights and support decision-making.
+
+## Excel to SQL Server ETL Pipeline Project
+Skills:
+Python • ETL Development • Data Engineering • SQL Server • Data Validation • Data Modelling • Database Administration
+
+Tools:
+Python • pandas • SQLAlchemy • pyodbc • SQL Server (T-SQL) • Jupyter Notebook
+
+Techniques:
+Extract-Transform-Load (ETL) • Relational Data Staging • NULL Handling • Batch/Chunked Inserts • Row-Count Validation • Idempotent Data Loads • Schema Design (staging vs. production)
+
+Outcome:
+Built a repeatable ETL pipeline that extracts multi-sheet employee, project, task, and cost data from Excel and loads it into staging tables in a SQL Server database, preserving data integrity through NULL-safe transformations and automated row-count validation — enabling reliable, re-runnable ingestion of source data ahead of downstream reporting and analysis.
 
 ## Data Engineering & Data Quality Workflow
 Skills:
