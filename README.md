@@ -6,8 +6,8 @@
   &nbsp;&nbsp;
   <a href="https://x.com/COVENANT_OFGOD" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/covenant_ofgod/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+  <!-- <a href="https://www.instagram.com/covenant_ofgod/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> -->
+</p> 
 I am a Computer Science student with a strong passion for transforming business challenges into data-driven solutions. I enjoy analysing business processes, gathering requirements, visualizing data, and helping organizations make informed decisions through business intelligence and analytics.
 
 My goal is to build a career as a Business Analyst while continuously developing expertise in data analytics, business process improvement, and digital transformation.
@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Detailed Data Cleaning Project (Python) | <a href="https://github.com/COVENANTOFGOD/OIBSIP">Detailed Business Data Cleaning Project </a>|
 | Employee Management Executive Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Employee-Management-Executive-Dashboard">Employee Management Executive Dashboard</a>|
 | Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence</a>|
 | Excel to SQL Server ETL PipelineProject (Jupyter Notebook) | <a href="https://github.com/COVENANTOFGOD/Loading-Excel-to-SQL-Project">Loading-Excel-to-SQL-Project</a>|
@@ -52,11 +53,24 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects
+## Detailed Business Data Cleaning Project
+Skills:
+Microsoft Excel • Data quality assessment • Data profiling • Data type conversion • KPI Development • Pandas • NumPy • Jupyter Notebook • Python.
+
+Tools:
+Python, Jupyter Notebook.
+
+Techniques:
+Data Quality Assessment > Cleaning & Standardisation > Outlier Detection > Data Type Correction > Validation
+
+Outcome:
+A cleaned dataset for Business Analysis and decision making:
+
 ## Employee Management Executive Dashboard
 Skills:
 Power BI • Data Modelling • DAX • Business Analysis • KPI Development • Data Visualization • Business Intelligence
 
-Tools:
+Tool:
 Power BI Desktop 
 
 Techniques:
