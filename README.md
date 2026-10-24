@@ -1,5 +1,5 @@
 # Hello, I'm COVENANTOFGOD👨‍💻
-## Business Analytics💹 | Data Analyst📈 | Experienced in SQL, Excel, Power BI, Tableau, Python | Problem Solver
+## Data Analyst📈💹 | Experienced in SQL, Excel, Power BI, Tableau, Python | Problem Solver
 
 <p align="left">
   <a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
