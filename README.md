@@ -1,5 +1,5 @@
 # Hello👋, I'm Irogementi Covenant (COVENANTOFGOD)👨‍💻
-## Data Analyst📈💹 | Experienced in SQL, Excel, Power BI, Python, Tableau | Good in Analysis | Good in Visualising | Attends to Details | Good in Collaborating and Team work | A Problem Solver.
+## Data Analyst📈💹 | Experienced in SQL, Excel, Power BI, Python, and Tableau | Skilled in data analysis and data visualization with a strong eye for detail | Collaborative team player and effective problem-solver.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
