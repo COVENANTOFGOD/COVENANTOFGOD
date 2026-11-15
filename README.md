@@ -20,7 +20,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 
-# 🛠 Skills
+# 🛠 Skills (MY PROJECTS)
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
@@ -53,7 +53,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 - Git & GitHub
 
 ---
-# 📊 Projects
+# 📊 Projects Breakdown 
 ## Data Understanding and Anomaly Review (EXCEL)
 Skills:
 Microsoft Excel • Data quality assessment.
