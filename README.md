@@ -24,7 +24,8 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
-| Data Understanding and Anomaly Review (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Data-Understanding-and-Anomaly-Review-EXCEL-">Data-Understanding-and-Anomaly-Review-EXCEL- </a>|
+| Data Cleaning (SQL Server Management Studio) | <a href="https://github.com/COVENANTOFGOD/Data-Cleaning-SQL-Server-Management-Studio-">Data-Cleaning-SQL-Server-Management-Studio </a>|
+| Data Understanding and Anomaly Review (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Data-Understanding-and-Anomaly-Review-EXCEL-">Data-Understanding-and-Anomaly-Review-EXCEL </a>|
 | Detailed Data Cleaning Project (Python) | <a href="https://github.com/COVENANTOFGOD/OIBSIP">Detailed Business Data Cleaning Project </a>|
 | Employee Management Executive Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Employee-Management-Executive-Dashboard">Employee Management Executive Dashboard</a>|
 | Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence</a>|
@@ -54,6 +55,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects Breakdown 
+## Data Cleaning (SQL Server Management Studio)
+Skills:
+Data exploration (profiling) • Data type correction • Cross-checking (reconciliation).
+
+Tools:
+SQL Server Management Studio (SMSS) • SQL Server.
+
+Techniques:
+Data Cleaning & Correction .
+
+Outcome:
+A cleaned Data for dip Analysis & Assessment.
+
 ## Data Understanding and Anomaly Review (EXCEL)
 Skills:
 Microsoft Excel • Data quality assessment.
