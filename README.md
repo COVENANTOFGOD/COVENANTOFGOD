@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Data Visualisation & Story Telling (Power-BI, Power-Query, DAX) | <a href="https://github.com/COVENANTOFGOD/Data-Visualisation-Story-Telling-Power-BI-Power-Query-DAX-">Data Visualisation & Story Telling (Power-BI, Power-Query, DAX) </a>|
 | RFM Segmentation (Python & Pandas) | <a href="https://github.com/COVENANTOFGOD/RFM-Segmentation-Python-and-Pandas-">RFM(rcency, frequency & monetary)-Segmentation-Python-and-Pandas </a>|
 | Data Cleaning (SQL Server Management Studio) | <a href="https://github.com/COVENANTOFGOD/Data-Cleaning-SQL-Server-Management-Studio-">Data-Cleaning-SQL-Server-Management-Studio </a>|
 | Data Understanding and Anomaly Review (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Data-Understanding-and-Anomaly-Review-EXCEL-">Data-Understanding-and-Anomaly-Review-EXCEL </a>|
@@ -56,6 +57,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects Breakdown 
+## Data Visualisation & Story Telling (Power-BI, Power-Query, DAX)
+Skills:
+Data Modelling • Data Visualization • Story Telling with Data.
+
+Tools:
+Power Query • DAX • Power BI.
+
+Techniques:
+Modelling • Dax Functions Calculations • Visualizations.
+
+Outcome:
+KPIs (Key Performance Indicators) • Multi-Page Dashboard • Reports.
+
 ## RFM Segmentation (Python & Pandas)
 Skills:
 Data Analysis • Data Segmentation.
