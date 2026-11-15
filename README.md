@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Data Understanding and Anomaly Review (EXCEL) | <a href="https://github.com/COVENANTOFGOD/Data-Understanding-and-Anomaly-Review-EXCEL-">Data-Understanding-and-Anomaly-Review-EXCEL- </a>|
 | Detailed Data Cleaning Project (Python) | <a href="https://github.com/COVENANTOFGOD/OIBSIP">Detailed Business Data Cleaning Project </a>|
 | Employee Management Executive Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Employee-Management-Executive-Dashboard">Employee Management Executive Dashboard</a>|
 | Production Data, Analytics Workflow & Business Intelligence (SSMS) | <a href="https://github.com/COVENANTOFGOD/Production-Data-to-Analytics-Workflow">Production Data, Analytics Workflow & Business Intelligence</a>|
@@ -53,6 +54,19 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects
+## Data Understanding and Anomaly Review (EXCEL)
+Skills:
+Microsoft Excel • Data quality assessment.
+
+Tools:
+Microsoft Excel.
+
+Techniques:
+Data Quality Assessment & Documentation.
+
+Outcome:
+A Studied Dataset Ready for cleaning:
+
 ## Detailed Business Data Cleaning Project
 Skills:
 Microsoft Excel • Data quality assessment • Data profiling • Data type conversion • KPI Development • Pandas • NumPy • Jupyter Notebook • Python.
