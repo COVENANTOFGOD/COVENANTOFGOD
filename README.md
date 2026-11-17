@@ -1,5 +1,5 @@
 # Hello👋, I'm Irogementi Covenant (COVENANTOFGOD)👨‍💻
-## Data Analyst📈💹 | Experienced in SQL, Excel, Power BI, Python, and Tableau | Skilled in data analysis and data visualization with a strong eye for detail | Collaborative team player and effective problem-solver.
+## Data Analyst📈💹 | Experienced in SQL, Excel, Power BI, Python, and Tableau | Skilled in data analysis and data visualization with a strong eye for detail | Collaborative team player and effective problem-solver & Cybersecurity enthusiast.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/irogementi-covenant-b89a2037b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| HR Analytics Dashboard — Employee Attrition Analysis (Power Bi) | <a href="https://github.com/COVENANTOFGOD/-HR-Data-Analytics-Dashboard">HR-Data-Analytics-Dashboard </a>|
 | Data Visualisation & Story Telling (Power-BI, Power-Query, DAX) | <a href="https://github.com/COVENANTOFGOD/Data-Visualisation-Story-Telling-Power-BI-Power-Query-DAX-">Data-Visualisation-Story-Telling-Power-BI-Power-Query-DAX </a>|
 | RFM Segmentation (Python & Pandas) | <a href="https://github.com/COVENANTOFGOD/RFM-Segmentation-Python-and-Pandas-">RFM(rcency, frequency & monetary)-Segmentation-Python-and-Pandas </a>|
 | Data Cleaning (SQL Server Management Studio) | <a href="https://github.com/COVENANTOFGOD/Data-Cleaning-SQL-Server-Management-Studio-">Data-Cleaning-SQL-Server-Management-Studio </a>|
@@ -57,6 +58,21 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects Breakdown 
+## HR Analytics Dashboard — Employee Attrition Analysis (Power Bi)
+
+Skills:
+Data Cleaning • Data Formatting • Data Visualization • Story Telling with Data.
+
+Tools:
+Power Query • DAX • Power BI.
+
+Techniques:
+Cleaning & Formatting • Dax Functions Calculations • Visualizations.
+
+Outcome:
+KPIs (Key Performance Indicators) • HR Page Dashboard • Reports.
+
+
 ## Data Visualisation & Story Telling (Power-BI, Power-Query, DAX)
 Skills:
 Data Modelling • Data Visualization • Story Telling with Data.
