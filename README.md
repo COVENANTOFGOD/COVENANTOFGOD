@@ -24,6 +24,8 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Product Performance & Returns Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Product-Performance-Returns-Analysis-Power-BI-">Product-Performance-Returns-Analysis-Power-BI </a>|
+| Customer Retention & Revenue Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Customer-Retention-Revenue-Analysis-Power-BI-">Customer-Retention-Revenue-Analysis-Power-BI </a>|
 | HR Analytics Dashboard — Employee Attrition Analysis (Power Bi) | <a href="https://github.com/COVENANTOFGOD/-HR-Data-Analytics-Dashboard">HR-Data-Analytics-Dashboard </a>|
 | Data Visualisation & Story Telling (Power-BI, Power-Query, DAX) | <a href="https://github.com/COVENANTOFGOD/Data-Visualisation-Story-Telling-Power-BI-Power-Query-DAX-">Data-Visualisation-Story-Telling-Power-BI-Power-Query-DAX </a>|
 | RFM Segmentation (Python & Pandas) | <a href="https://github.com/COVENANTOFGOD/RFM-Segmentation-Python-and-Pandas-">RFM(rcency, frequency & monetary)-Segmentation-Python-and-Pandas </a>|
@@ -58,6 +60,34 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects Breakdown 
+## Customer Retention & Revenue Analysis (Power BI)
+
+Skills:
+Data Formatting • Data Visualization • Business Analysis • Story Telling with Data.
+
+Tools:
+Power Query • DAX • Power BI.
+
+Techniques:
+Cleaning & Formatting • Dax Functions Calculations • Visualizations.
+
+Outcome:
+KPIs (Key Performance Indicators) • HR Page Dashboard • Reports.
+
+## Customer Retention & Revenue Analysis (Power BI)
+
+Skills:
+Data Formatting • Data Visualization • Business Analysis • Story Telling with Data.
+
+Tools:
+Power Query • DAX • Power BI.
+
+Techniques:
+Cleaning & Formatting • Dax Functions Calculations • Visualizations.
+
+Outcome:
+KPIs (Key Performance Indicators) • HR Page Dashboard • Reports.
+
 ## HR Analytics Dashboard — Employee Attrition Analysis (Power Bi)
 
 Skills:
