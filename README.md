@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Business Merchant Value & Risk Intelligence Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Business-Merchants-Value-Risk-Intelligence-Dashboard">Business-Merchants-Value-Risk-Intelligence-Dashboard </a>|
 | Product Performance & Returns Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Product-Performance-Returns-Analysis-Power-BI-">Product-Performance-Returns-Analysis-Power-BI </a>|
 | Customer Retention & Revenue Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Customer-Retention-Revenue-Analysis-Power-BI-">Customer-Retention-Revenue-Analysis-Power-BI </a>|
 | HR Analytics Dashboard — Employee Attrition Analysis (Power Bi) | <a href="https://github.com/COVENANTOFGOD/-HR-Data-Analytics-Dashboard">HR-Data-Analytics-Dashboard </a>|
@@ -60,6 +61,34 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 ---
 # 📊 Projects Breakdown 
+## Business Merchant Value & Risk Intelligence Dashboard (Power Bi)
+
+Skills:
+Data Formatting • Data Analysis Data • Visualization • Business Analysis • Story Telling with Data.
+
+Tools:
+Power Query • DAX • Power BI.
+
+Techniques:
+Cleaning & Formatting • Dax Functions Calculations • Visualizations.
+
+Outcome:
+KPIs (Key Performance Indicators) • Executive Page Dashboard • Reports.
+
+## Product Performance & Returns Analysis (Power BI)
+
+Skills:
+Data Formatting • Data Visualization • Business Analysis • Story Telling with Data.
+
+Tools:
+Power Query • DAX • Power BI.
+
+Techniques:
+Cleaning & Formatting • Dax Functions Calculations • Visualizations.
+
+Outcome:
+KPIs (Key Performance Indicators) • Product Page Dashboard • Reports.
+
 ## Customer Retention & Revenue Analysis (Power BI)
 
 Skills:
@@ -72,21 +101,7 @@ Techniques:
 Cleaning & Formatting • Dax Functions Calculations • Visualizations.
 
 Outcome:
-KPIs (Key Performance Indicators) • HR Page Dashboard • Reports.
-
-## Customer Retention & Revenue Analysis (Power BI)
-
-Skills:
-Data Formatting • Data Visualization • Business Analysis • Story Telling with Data.
-
-Tools:
-Power Query • DAX • Power BI.
-
-Techniques:
-Cleaning & Formatting • Dax Functions Calculations • Visualizations.
-
-Outcome:
-KPIs (Key Performance Indicators) • HR Page Dashboard • Reports.
+KPIs (Key Performance Indicators) • Customer Page Dashboard • Reports.
 
 ## HR Analytics Dashboard — Employee Attrition Analysis (Power Bi)
 
