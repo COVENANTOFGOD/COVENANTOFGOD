@@ -60,6 +60,12 @@ I am seeking opportunities to apply analytical thinking, business process analys
 - Git & GitHub
 
 ---
+
+# Experience
+INTERNSHIP - 10/2026 - CURRENT 
+DATA MINING, GOA TEK INC. NORTH AMERICA. 
+---
+
 # 📊 Projects Breakdown 
 ## Business Merchant Value & Risk Intelligence Dashboard (Power Bi)
 
