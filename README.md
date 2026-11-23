@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Supply Chain Analysis Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Supply-Chain-Analysis-Dashboard-Power-BI-">Supply-Chain-Analysis-Dashboard-Power-BI </a>| 
 | Business Merchant Value & Risk Intelligence Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Business-Merchants-Value-Risk-Intelligence-Dashboard">Business-Merchants-Value-Risk-Intelligence-Dashboard </a>|
 | Product Performance & Returns Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Product-Performance-Returns-Analysis-Power-BI-">Product-Performance-Returns-Analysis-Power-BI </a>|
 | Customer Retention & Revenue Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Customer-Retention-Revenue-Analysis-Power-BI-">Customer-Retention-Revenue-Analysis-Power-BI </a>|
@@ -67,6 +68,20 @@ DATA MINING, GOA TEK INC. NORTH AMERICA.
 ---
 
 # 📊 Projects Breakdown 
+## Supply Chain Analysis Dashboard (Power Bi)
+
+Skills:
+Data Formatting • Data Analysis Data • Data Modelling • Visualization • Business Analysis • Story Telling with Data.
+
+Tools:
+Power Query • DAX • Power BI.
+
+Techniques:
+Cleaning & Formatting • Modeling • Dax Functions Calculations • Visualizations.
+
+Outcome:
+KPIs (Key Performance Indicators) • Executive Page Dashboard • Reports.
+
 ## Business Merchant Value & Risk Intelligence Dashboard (Power Bi)
 
 Skills:
