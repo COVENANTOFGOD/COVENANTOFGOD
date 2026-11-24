@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| HR Employee Attrition - Data Cleaning (Python) | <a href="https://github.com/COVENANTOFGOD/HR-Employee-Attrition---Data-Cleaning-with-Python">HR-Employee-Attrition---Data-Cleaning-with-Python </a>| 
 | Supply Chain Analysis Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Supply-Chain-Analysis-Dashboard-Power-BI-">Supply-Chain-Analysis-Dashboard-Power-BI </a>| 
 | Business Merchant Value & Risk Intelligence Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Business-Merchants-Value-Risk-Intelligence-Dashboard">Business-Merchants-Value-Risk-Intelligence-Dashboard </a>|
 | Product Performance & Returns Analysis (Power BI) | <a href="https://github.com/COVENANTOFGOD/Product-Performance-Returns-Analysis-Power-BI-">Product-Performance-Returns-Analysis-Power-BI </a>|
@@ -68,6 +69,20 @@ DATA MINING, GOA TEK INC. NORTH AMERICA.
 ---
 
 # 📊 Projects Breakdown 
+## HR Employee Attrition Data Cleaning (Python)
+
+**Skills:**  
+Data Cleaning • Data Formatting • Data Transformation • Data Preparation • Exploratory Data Analysis • Data Quality
+
+**Tools:**  
+Python • Pandas • Jupyter Notebook
+
+**Techniques:**  
+Data Inspection • Column Selection & Removal • Missing Value Handling • Duplicate Checking • Categorical Data Standardization • Data Encoding • Dataset Export
+
+**Outcome:**  
+Cleaned & Analysis-Ready Dataset • Standardized Data • Encoded Attrition Variable • Reduced Unnecessary Data • CSV Dataset for Further Analysis
+
 ## Supply Chain Analysis Dashboard (Power Bi)
 
 Skills:
