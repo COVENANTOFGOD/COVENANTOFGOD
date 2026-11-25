@@ -24,6 +24,7 @@ I am seeking opportunities to apply analytical thinking, business process analys
 
 | Skill                                     | Associated Project |
 |-------------------------------------------|--------------------|
+| Customer-Product Analysis Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Customer-Product-Analysis-Dashboard">Customer-Product-Analysis-Dashboard </a>| 
 | Data Cleaning & Analysis Workflow (Excel) | <a href="https://github.com/COVENANTOFGOD/Data-Cleaning-Analysis-Workflow-in-Microsoft-Excel-">Data-Cleaning-Analysis-Workflow-in-Microsoft-Excel </a>| 
 | HR Employee Attrition - Data Cleaning (Python) | <a href="https://github.com/COVENANTOFGOD/HR-Employee-Attrition---Data-Cleaning-with-Python">HR-Employee-Attrition---Data-Cleaning-with-Python </a>| 
 | Supply Chain Analysis Dashboard (Power BI) | <a href="https://github.com/COVENANTOFGOD/Supply-Chain-Analysis-Dashboard-Power-BI-">Supply-Chain-Analysis-Dashboard-Power-BI </a>| 
@@ -70,6 +71,21 @@ DATA MINING, GOA TEK INC. NORTH AMERICA.
 ---
 
 # 📊 Projects Breakdown 
+## Customer-Product Analysis Dashboard (Power BI)
+
+**Skills:**  
+Customer Analysis • Product Analysis • Data Transformation • Data Preparation • Data Analysis • Data Storytelling • Dashboard Design
+
+**Tools:**  
+Power Query • Power BI • DAX
+
+
+**Techniques:**  
+Data Cleaning & Formatting • Data Transformation • Data Modelling & DAX Calculations • Trend Analysis & Product Performance Analysis • Interactive Filtering
+
+**Outcome:**  
+Cleaned Interactive Dashboard • Report • Customer & Product Analysis.
+
 ## Data Cleaning & Analysis (Excel)
 
 **Skills:**  
